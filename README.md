@@ -4,3 +4,4 @@ Olá! Bem vindo ao meu livro de receitas :handshake:
 
 - [Macarrão à Carbonara](receitas/carbonara.md)
 - Pavê
+- Bolo de Cenoura
